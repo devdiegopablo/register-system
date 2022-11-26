@@ -5,5 +5,6 @@
 To run this system, you will must install the following softwares:
 
 ```
-React, Node.js
+1- install Node.js
+2- excute node app.js
 ```
